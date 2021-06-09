@@ -5,3 +5,7 @@
 #### 1-listit script displays the contents list of the current directory.
 
 #### 2-bring_me_home script changes directory to home directory.
+
+#### 3-listfiles script display the contents in long format.
+
+#### 4-listmorefiles script display the contents in long format and shows hidden files.
