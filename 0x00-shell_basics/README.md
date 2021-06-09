@@ -9,3 +9,6 @@
 #### 3-listfiles script display the contents in long format.
 
 #### 4-listmorefiles script display the contents in long format and shows hidden files.
+
+#### 5-listfiledigitonly display the contents with user and group IDs displayed numerically.
+
