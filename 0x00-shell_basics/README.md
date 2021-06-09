@@ -15,3 +15,5 @@
 #### 6-firstdirectory script create /tmp/holberton/ directory
 
 #### 7-movethatfile script moves betty file from /tmp/ to /tmp/holberton/
+
+#### 8-firstdelete scripty deletes the betty file on /tmp/holbern/
