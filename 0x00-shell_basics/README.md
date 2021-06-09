@@ -10,5 +10,8 @@
 
 #### 4-listmorefiles script display the contents in long format and shows hidden files.
 
-#### 5-listfiledigitonly display the contents with user and group IDs displayed numerically.
+#### 5-listfiledigitonly script display the contents with user and group IDs displayed numerically.
 
+#### 6-firstdirectory script create /tmp/holberton/ directory
+
+#### 7-movethatfile script moves betty file from /tmp/ to /tmp/holberton/
